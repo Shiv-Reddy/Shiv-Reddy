@@ -50,6 +50,8 @@ const shiv = {
 
 > *See it. Wear it. Own it.* — Try clothes on before you buy them.
 
+**Role**: Collabrator
+
 - Virtual try-on powered by Google Gemini AI
 - Full commerce — Razorpay, Cloudinary, cart, orders
 - NextAuth v5 auth + Zustand state management
