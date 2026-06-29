@@ -14,7 +14,7 @@
 
 I'm **Shiv** — a full-stack developer who thinks in products, not just features.
 
-I care about the *why* behind what I build. Currently collaborating on two live products across ed-tech and fashion-tech, with AI at the core of both.
+I care about the *why* behind what I build. Currently collaborating on two live products across ed-tech and fashion-tech, with AI at the core of 
 
 ```ts
 const shiv = {
