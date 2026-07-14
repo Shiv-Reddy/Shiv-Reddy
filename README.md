@@ -44,23 +44,6 @@ const shiv = {
 
 ---
 
-### VESTON &nbsp;·&nbsp; AI Fashion E-Commerce
-
-> *See it. Wear it. Own it.* — Try clothes on before you buy them.
-
-**Role**: Collabrator
-
-- Virtual try-on powered by Google Gemini AI
-- Full commerce — Razorpay, Cloudinary, cart, orders
-- NextAuth v5 auth + Zustand state management
-- PostgreSQL + Prisma with 17+ models
-
-`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `NextAuth v5` `Zustand` `Cloudinary` `Razorpay` `Tailwind`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo%20%E2%86%92-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V-vumika/VESTON)
-
----
-
 ## Stack
 
 | Layer | Tools |
