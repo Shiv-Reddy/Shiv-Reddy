@@ -1,5 +1,9 @@
 <div align="center">
 
+# Hi, I'm Shiv 👋
+
+### Full-Stack Developer · Open to internships, collabs & freelance
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-shivkumar--reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkumar-reddy-/)
@@ -10,55 +14,188 @@
 
 </div>
 
----
+<br/>
 
-I'm **Shiv** — a full-stack developer who thinks in products, not just features.
+## About Me
 
-I care about the *why* behind what I build. Currently collaborating on two live products across ed-tech and fashion-tech, with AI at the core of 
+I'm a full-stack developer who cares about the *why* behind what I build, not just the how. I like taking products from a blank file to something real people use, and I've shipped work across developer tooling, ed-tech, fashion-tech, and AI-powered experiences, including **CommitFlow**, **EduVerse**, **RunX**, **DigiRashtra**, **VESTON**, and **4DINE**.
 
 ```ts
 const shiv = {
-  building : ["EduVerse", "VESTON"],
-  stack    : ["Next.js", "React", "TypeScript", "PostgreSQL", "Firebase"],
-  into     : ["AI integrations", "3D/WebGL", "clean UX", "shipping fast"],
-  openTo   : ["collabs", "freelance", "anything interesting"],
-}
+  role     : "Full-Stack Developer",
+  focus    : ["AI integrations", "Developer tooling", "3D / WebGL", "Clean UX", "Shipping fast"],
+} as const;
 ```
 
----
+<br/>
 
-## Projects
-
-### EduVerse &nbsp;·&nbsp; Learning Platform
-
-> Real-time ed-tech platform — built for scale, designed to feel good.
-
-- Firebase auth + Firestore real-time backend
-- 3D WebGL accents via React Three Fiber
-- Smooth animations — GSAP + Framer Motion
-- shadcn/ui + Radix UI component system
-
-`React 18` `TypeScript` `Vite` `Tailwind 4` `Firebase` `Supabase` `Three.js` `GSAP` `shadcn/ui`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo%20%E2%86%92-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-eduverse-repo)
-
----
-
-## Stack
-
-| Layer | Tools |
-|---|---|
-| Frontend | Next.js · React · TypeScript · Tailwind CSS · Zustand · shadcn/ui |
-| Backend | Node.js · PostgreSQL · Prisma · Drizzle · Supabase · Firebase |
-| AI & 3D | Google Gemini · Three.js · React Three Fiber · Cloudinary |
-| Animation | GSAP · Framer Motion |
-| Tooling | Vite · pnpm · Vercel · VS Code · Claude Code |
-
----
+## Skills & Tools
 
 <div align="center">
 
-**Let's build something worth using.**
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI, 3D & Motion**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Tooling**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### CommitFlow
+
+CommitFlow is a Git commit scheduler I built as a CLI, so scheduling stays where your code already lives instead of living in a dashboard. You write your schedule into a single Markdown file, and it handles the snapshots, the timing, and the automation from there. It works across multiple Git accounts, runs as a background service on any platform, and never touches the cloud.
+
+![Node.js](https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
+![Commander.js](https://img.shields.io/badge/Commander.js-303030?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-303030?style=flat-square&logo=sqlite&logoColor=white)
+![node--cron](https://img.shields.io/badge/node--cron-303030?style=flat-square&logoColor=white)
+![simple--git](https://img.shields.io/badge/simple--git-303030?style=flat-square&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiv-Reddy/CommitFlow)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### EduVerse
+
+EduVerse is a real-time learning platform I designed to feel less like enterprise software and more like something students actually enjoy using. It runs on a live Firebase backend for authentication and data, layered with 3D visuals through React Three Fiber and motion built with GSAP and Framer Motion, all wrapped in a shadcn/ui component system.
+
+![React](https://img.shields.io/badge/React_18-303030?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-303030?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-303030?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-303030?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-303030?style=flat-square&logo=supabase&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-303030?style=flat-square&logo=three.js&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://eduverse.study/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### RunX
+
+RunX is a code visualizer I built with a friend to help students understand what their code is actually doing, tracing execution line by line through variables, memory, call stacks, and data structures for both Python and JavaScript. It ships with eleven DSA visualizers, rules-based time and space complexity analysis, support for LeetCode-style problems, and an interview mode for practice.
+
+![Next.js](https://img.shields.io/badge/Next.js_16-303030?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
+![Pyodide](https://img.shields.io/badge/Pyodide-303030?style=flat-square&logo=python&logoColor=white)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-303030?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat-square&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-303030?style=flat-square&logo=framer&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://run-x-five.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V-vumika/RunX)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Other Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**DigiRashtra**
+
+Software studio shipping custom web and mobile apps, SaaS products, and AI automation for businesses worldwide.
+
+![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://digirashtra.in)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shiv-Reddy/DigiRashtra)
+
+</td>
+<td width="33%" valign="top">
+
+**VESTON** <sub>with a collaborator</sub>
+
+An AI-powered fashion e-commerce platform built for an immersive, personalized shopping experience.
+
+![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat-square&logo=next.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI-303030?style=flat-square&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://veston.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V-vumika/VESTON)
+
+</td>
+<td width="33%" valign="top">
+
+**4DINE** <sub>with a collaborator</sub>
+
+An AR and VR dining ecosystem with food visualization, smart recommendations, and live kitchen analytics.
+
+![AR/VR](https://img.shields.io/badge/AR%2FVR-303030?style=flat-square&logoColor=white)
+![AI](https://img.shields.io/badge/AI-303030?style=flat-square&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://4dine.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V-vumika/4DINE)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### Open to internships, collaborations, and freelance work — let's talk.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivkumar-reddy-/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivkumarreddy043@gmail.com)
