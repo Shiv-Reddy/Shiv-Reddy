@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shiv 👋
+# Hi, I'm Shiv
 
 ### Full-Stack Developer · Open to internships, collabs & freelance
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a full-stack developer who cares about the *why* behind what I build, not just the how. I like taking products from a blank file to something real people use, and I've shipped work across developer tooling, ed-tech, fashion-tech, and AI-powered experiences, including **CommitFlow**, **EduVerse**, **RunX**, **DigiRashtra**, **VESTON**, and **4DINE**.
+I'm a full-stack developer who cares about the *why* behind what I build, not just the how. I like taking products from a blank file to something real people use, and I've shipped work across developer tooling, ed-tech, privacy-focused AI, and client software, including **Shield**, **CommitFlow**, **EduVerse**, and **DigiRashtra**.
 
 ```ts
 const shiv = {
@@ -54,6 +54,7 @@ const shiv = {
 **AI, 3D & Motion**
 
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
@@ -73,6 +74,27 @@ const shiv = {
 <br/>
 
 ## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### Shield
+
+Shield is a privacy-preserving Chrome extension that lets an AI agent read and act on a webpage without a server ever seeing sensitive data. A vision model runs locally in the browser and redacts passwords, personal identifiers, and faces before any screen context leaves the device; only the sanitized context reaches the cloud model, which returns an action the extension executes on the page. Built for Smart India Hackathon 2026 against an ISRO problem statement, where I led the team and owned the on-device vision layer.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_MV3-303030?style=flat-square&logo=googlechrome&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime_Web-303030?style=flat-square&logo=onnx&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-303030?style=flat-square&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-303030?style=flat-square&logo=webassembly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-303030?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table width="100%">
 <tr>
@@ -121,35 +143,11 @@ EduVerse is a real-time learning platform I designed to feel less like enterpris
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-### RunX
-
-RunX is a code visualizer I built with a friend to help students understand what their code is actually doing, tracing execution line by line through variables, memory, call stacks, and data structures for both Python and JavaScript. It ships with eleven DSA visualizers, rules-based time and space complexity analysis, support for LeetCode-style problems, and an interview mode for practice.
-
-![Next.js](https://img.shields.io/badge/Next.js_16-303030?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
-![Pyodide](https://img.shields.io/badge/Pyodide-303030?style=flat-square&logo=python&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-303030?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-303030?style=flat-square&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-303030?style=flat-square&logo=framer&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://run-x-five.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/V-vumika/RunX)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Other Projects
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="100%" valign="top">
 
 **DigiRashtra**
 
@@ -160,32 +158,6 @@ Software studio shipping custom web and mobile apps, SaaS products, and AI autom
 
 [![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://digirashtra.in)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shiv-Reddy/DigiRashtra)
-
-</td>
-<td width="33%" valign="top">
-
-**VESTON** <sub>with a collaborator</sub>
-
-An AI-powered fashion e-commerce platform built for an immersive, personalized shopping experience.
-
-![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat-square&logo=next.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI-303030?style=flat-square&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://veston.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V-vumika/VESTON)
-
-</td>
-<td width="33%" valign="top">
-
-**4DINE** <sub>with a collaborator</sub>
-
-An AR and VR dining ecosystem with food visualization, smart recommendations, and live kitchen analytics.
-
-![AR/VR](https://img.shields.io/badge/AR%2FVR-303030?style=flat-square&logoColor=white)
-![AI](https://img.shields.io/badge/AI-303030?style=flat-square&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://4dine.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/V-vumika/4DINE)
 
 </td>
 </tr>
