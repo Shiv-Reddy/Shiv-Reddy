@@ -57,6 +57,8 @@ A privacy-focused Chrome extension for Smart India Hackathon 2026, built for an 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-303030?style=flat-square&logo=webassembly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-303030?style=flat-square&logo=fastapi&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiv-Reddy/SHIELD)
+
 </td>
 </tr>
 </table>
@@ -124,7 +126,6 @@ A software studio building custom web and mobile apps, SaaS products, and AI aut
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
 
 [![Live](https://img.shields.io/badge/Live-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://digirashtra.in)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shiv-Reddy/DigiRashtra)
 
 </td>
 </tr>
