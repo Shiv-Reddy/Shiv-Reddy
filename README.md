@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shiv
+# Hi, I'm Shivkumar Reddy
 
 ### Full-Stack Developer · Open to internships, collabs & freelance
 
@@ -18,12 +18,12 @@
 
 ## About Me
 
-I'm a full-stack developer who cares about the *why* behind what I build, not just the how. I like taking products from a blank file to something real people use, and I've shipped work across developer tooling, ed-tech, privacy-focused AI, and client software, including **Shield**, **CommitFlow**, **EduVerse**, and **DigiRashtra**.
+I'm a full-stack developer who enjoys turning ideas into useful products. My work spans developer tools, ed-tech, privacy-focused AI, and client software, including **Shield**, **CommitFlow**, **EduVerse**, and **DigiRashtra**.
 
 ```ts
 const shiv = {
-  role     : "Full-Stack Developer",
-  focus    : ["AI integrations", "Developer tooling", "3D / WebGL", "Clean UX", "Shipping fast"],
+  role: "Full-Stack Developer",
+  focus: ["AI integrations", "Developer tooling", "3D / WebGL", "Clean UX"],
 } as const;
 ```
 
@@ -31,45 +31,12 @@ const shiv = {
 
 ## Skills & Tools
 
-<div align="center">
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**AI, 3D & Motion**
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Tooling**
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-
-</div>
+| Area | Technologies |
+|---|---|
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **AI, 3D & Motion** | ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) |
 
 <br/>
 
@@ -81,7 +48,7 @@ const shiv = {
 
 ### Shield
 
-Shield is a privacy-preserving Chrome extension that lets an AI agent read and act on a webpage without a server ever seeing sensitive data. A vision model runs locally in the browser and redacts passwords, personal identifiers, and faces before any screen context leaves the device; only the sanitized context reaches the cloud model, which returns an action the extension executes on the page. Built for Smart India Hackathon 2026 against an ISRO problem statement, where I led the team and owned the on-device vision layer.
+A privacy-focused Chrome extension for Smart India Hackathon 2026, built for an ISRO problem statement. I led the team and developed its on-device vision layer, which redacts sensitive information before page context reaches a cloud AI model.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_MV3-303030?style=flat-square&logo=googlechrome&logoColor=white)
@@ -102,7 +69,7 @@ Shield is a privacy-preserving Chrome extension that lets an AI agent read and a
 
 ### CommitFlow
 
-CommitFlow is a Git commit scheduler I built as a CLI, so scheduling stays where your code already lives instead of living in a dashboard. You write your schedule into a single Markdown file, and it handles the snapshots, the timing, and the automation from there. It works across multiple Git accounts, runs as a background service on any platform, and never touches the cloud.
+A cross-platform CLI that schedules Git commits from a Markdown file. It supports multiple Git accounts and runs locally as a background service.
 
 ![Node.js](https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
@@ -125,7 +92,7 @@ CommitFlow is a Git commit scheduler I built as a CLI, so scheduling stays where
 
 ### EduVerse
 
-EduVerse is a real-time learning platform I designed to feel less like enterprise software and more like something students actually enjoy using. It runs on a live Firebase backend for authentication and data, layered with 3D visuals through React Three Fiber and motion built with GSAP and Framer Motion, all wrapped in a shadcn/ui component system.
+A real-time learning platform combining Firebase-powered features with interactive 3D visuals and motion.
 
 ![React](https://img.shields.io/badge/React_18-303030?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
@@ -151,7 +118,7 @@ EduVerse is a real-time learning platform I designed to feel less like enterpris
 
 **DigiRashtra**
 
-Software studio shipping custom web and mobile apps, SaaS products, and AI automation for businesses worldwide.
+A software studio building custom web and mobile apps, SaaS products, and AI automation.
 
 ![Next.js](https://img.shields.io/badge/Next.js-303030?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-303030?style=flat-square&logo=typescript&logoColor=white)
